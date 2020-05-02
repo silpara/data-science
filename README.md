@@ -2,6 +2,7 @@
 ---
 
 - Painless tutorials with relevant theory for painless data science learning
+- Python
 - TensorFlow 2.x
 
 ## NLP
