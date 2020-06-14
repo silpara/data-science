@@ -18,6 +18,8 @@
 - Sentence Embedding: [nnlm-en-dim128 + Nearest Neighbour Search using SimpleNeighbors[annoy]](https://github.com/silpara/data-science/blob/master/nnlm-en-dim128/nnlm-en-dim128%20%2B%20Nearest%20Neighbour%20Search%20using%20SimpleNeighbors%5Bannoy%5D.ipynb)
   - Using Google's **NNLM** model to get sentence embeddings in TensorFlow 2.0. This model is faster than USE.
   - Use SimpleNeighbours library by Annoy to find sentences nearest to a sentence by nearest neighbour search in N-dimensional vector space.
+  
+## Useful Techniques
 - Nearest Neighbour Search: [Self Contained Example of NNS using Annoy](https://github.com/silpara/data-science/blob/master/nearest-neighbour-search/self_contained_annoy_example.ipynb)
   - Search nearest neighbours to a given vector.
   - Search nearest neighbour to a given index. Here you must know what the index means, e.g. index idx may represent embedding of an item.
