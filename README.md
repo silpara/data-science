@@ -24,3 +24,5 @@
   - Search nearest neighbours to a given vector.
   - Search nearest neighbour to a given index. Here you must know what the index means, e.g. index idx may represent embedding of an item.
 
+## Machine Learning
+- Logistic regression: [Implementation of Logistic Regression From Scratch](https://github.com/silpara/data-science/blob/master/ml_from_scratch/Logistic%20Regression%20From%20Scratch.ipynb)
